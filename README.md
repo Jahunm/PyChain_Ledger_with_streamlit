@@ -1,4 +1,4 @@
-#        ***PyChain_Ledger_with_streamlit***
+#        ***PyChain Ledger with Streamlit***
 
 ![Blockchain art](Images/blockchainart.png)
 
