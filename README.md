@@ -6,12 +6,12 @@
 
 ----
 # Table of Contents
-1. [Mission Objective:](#Mission-Objective:)
-2. [Create a Record Data Class](#Step-1:-Create-a-Record-Data-Class)
-3. [Modify the Existing Block Data Class to Store Record Data](#Step-2:-Modify-the-Existing-Block-Data-Class-to-Store-Record-Data)
-4. [Add Relevant User Inputs to the Streamlit Interface](#Step-3:-Add-Relevant-User-Inputs-to-the-Streamlit-Interface)
-5. [Test the PyChain Ledger by Storing Records](#Step-4:-Test-the-PyChain-Ledger-by-Storing-Records)
-6. [Results](#Results:)
+1. [Mission Objective](#mission-objective)
+2. [Create a Record Data Class](#step-1-create-a-record-data-class)
+3. [Modify the Existing Block Data Class to Store Record Data](#step-2-modify-the-existing-block-data-class-to-store-record-data)
+4. [Add Relevant User Inputs to the Streamlit Interface](#step-3-add-relevant-user-inputs-to-the-streamlit-interface)
+5. [Test the PyChain Ledger by Storing Records](#step-4-test-the-pychain-ledger-by-storing-records)
+6. [Results](#results)
 7. [Conlusion](#conclusion)
 
 ---
@@ -63,4 +63,4 @@ The complete PyChain ledger and user interface were tested by running the Stream
 
 Overall, this project successfully achieved the goal of developing a blockchain-based ledger system with a user-friendly interface, allowing partner banks to conduct secure and verifiable financial transactions.
 
-**File:** [Blockchain with PyChain and Stremalit](pychain.py) 
+**File:** [Blockchain with PyChain and Streamlit](pychain.py) 
